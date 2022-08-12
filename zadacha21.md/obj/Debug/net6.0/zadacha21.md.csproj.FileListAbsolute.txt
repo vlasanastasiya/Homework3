@@ -1,0 +1,15 @@
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\bin\Debug\net6.0\zadacha21.md.exe
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\bin\Debug\net6.0\zadacha21.md.deps.json
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\bin\Debug\net6.0\zadacha21.md.runtimeconfig.json
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\bin\Debug\net6.0\zadacha21.md.dll
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\bin\Debug\net6.0\zadacha21.md.pdb
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\zadacha21.md.csproj.AssemblyReference.cache
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\zadacha21.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\zadacha21.md.AssemblyInfoInputs.cache
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\zadacha21.md.AssemblyInfo.cs
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\zadacha21.md.csproj.CoreCompileInputs.cache
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\zadacha21.md.dll
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\refint\zadacha21.md.dll
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\zadacha21.md.pdb
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\zadacha21.md.genruntimeconfig.cache
+C:\Users\selec\OneDrive\Рабочий стол\Homework3\zadacha21.md\obj\Debug\net6.0\ref\zadacha21.md.dll
